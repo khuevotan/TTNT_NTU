@@ -1,0 +1,9 @@
+
+Mở Python Shell >> Open file vuonghao.py
+1) Khai báo mệnh đề :
++ menhde1 = tuyen(tuyen(phu(val('a')),phu(val('b'))),val('c'))
++ menhde2 = tuyen(tuyen(phu(val('b')),phu(val('c'))),val('d'))
++ menhde3 = tuyen(phu(val('a')),val('b'))
+2) Khai báo biểu thức : mybieuthuc = bieuthuc([menhde1,menhde2],[menhde3])
+3) In ra biểu thức nếu cần : print(mybieuthuc)
+4) Chạy thuật toán chứng minh : VuongHao(mybieuthuc).run()

@@ -1,0 +1,20 @@
+@relation healthy.symbolic
+
+@attribute mauda {nau, do, vang}
+@attribute chieucao {cao, thap, TB}
+@attribute cannang {nang, nhe, TB}
+@attribute thethao {boi, bongban, bongro}
+@attribute suckhoe {mot , hai}
+
+@data
+nau,thap,TB,boi,mot
+do,thap,nhe,bongban,hai
+vang,cao,nhe,bongro,hai
+vang,thap,TB,bongban,mot
+do,cao,nang,boi,hai
+vang,TB,TB,boi,mot
+nau,TB,nang,bongban,mot
+nau,cao,nang,bongban,mot
+vang,thap,nhe,boi,mot
+vang,cao,nang,boi,hai
+
